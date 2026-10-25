@@ -1,16 +1,12 @@
 # assemblage_org_drivers
 GENERAL INFORMATION
 This README.txt file was updated on 10/25/26
-
-A. Paper associated with this archive: Complex interplay between trait representation and environmental drivers alters prediction of emergent ecosystem properties
-Citation: TBD
-Brief abstract: Here we generate a self-organizing phytoplankton assemblage with traits spanning an r/K gradient, in which population density shifts with trait fitness under different environmental conditions, and embed it in a coastal ecosystem model. The program files and functions provided complete all necessary tasks to run a model simulation using either the “trait-rich” (v.rich) or “trait-poor” (v.poor) model version. 
-
-B. Originators [REMOVED FOR SUBMISSION]
-
-C. Contact information [REMOVED FOR SUBMISSION]
-
-D. Funding Sources [REMOVED FOR SUBMISSION]
+A. Paper associated with this archive: Complex interplay between trait representation and environmental drivers alters prediction of emergent ecosystem properties, 
+B. Citation: TBD
+C. Brief abstract: Here we generate a self-organizing phytoplankton assemblage with traits spanning an r/K gradient, in which population density shifts with trait fitness under different environmental conditions, and embed it in a coastal ecosystem model. The program files and functions provided complete all necessary tasks to run a model simulation using either the “trait-rich” (v.rich) or “trait-poor” (v.poor) model version. 
+D. Originators [REMOVED FOR SUBMISSION]
+E. Contact information [REMOVED FOR SUBMISSION]
+F. Funding Sources [REMOVED FOR SUBMISSION]
 
 ACCESS INFORMATION
 1. Licenses/restrictions placed on the data or code
